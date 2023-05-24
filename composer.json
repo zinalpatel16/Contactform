@@ -1,0 +1,17 @@
+{
+    "name": "Hcipl/Contactform",
+    "description": "A contact form package for laravel",
+    "authors": [
+        {
+            "name": "hcipl",
+            "email": "zinal.patel@horizoncore.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+	"psr-4": {
+		"Hcipl\\Contactform\\": "src/"
+	}
+    }
+}
