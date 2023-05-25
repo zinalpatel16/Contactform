@@ -16,7 +16,7 @@
         "illuminate/notifications": "^5.7 || ^6.0",
         "illuminate/support": "^5.7 || ^6.0"
     },
-    "keywords":  ["Hcipl", "Contactform", "html"],
+    "keywords":  ["Hcipl", "Contactform", "html", "form"],
     "autoload": {
     	"psr-4": {
     		"Hcipl\\Contactform\\": "src/"
