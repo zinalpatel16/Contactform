@@ -9,9 +9,15 @@
     ],
     "minimum-stability": "dev",
     "require": {},
+    "keywords":  [
+        {
+            "Hcipl",
+            "Contactform"
+        }
+    ],
     "autoload": {
-	"psr-4": {
-		"Hcipl\\Contactform\\": "src/"
-	}
+    	"psr-4": {
+    		"Hcipl\\Contactform\\": "src/"
+    	}
     }
 }
