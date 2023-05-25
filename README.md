@@ -13,6 +13,6 @@ Live url : (https://packagist.org/packages/hcipl/contactform)
 5. Test url "http://127.0.0.1:8000/contact"
 
 ## Views Modification
-###### In order to modify the contact form and email template :-
+###### In order to modify the contact form and email template :
 1. Run "php artisan vendor:publish"
 2. Select the option which depicts "Provider:Hcipl\Contactform\ContactServiceProvider"
