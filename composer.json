@@ -5,7 +5,9 @@
     "authors": [
         {
             "name": "hcipl",
-            "email": "zinal.patel@horizoncore.com"
+            "email": "zinal.patel@horizoncore.com",
+            "homepage": "https://github.com/zinalpatel16/Contactform",
+            "role": "Developer"
         }
     ],
     "minimum-stability": "dev",
