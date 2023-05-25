@@ -8,7 +8,8 @@
         }
     ],
     "minimum-stability": "dev",
-    "requires": {
+    "license": "MIT",
+    "require": {
         "php": ">=7.0",
         "illuminate/database": "^5.7 || ^6.0",
         "illuminate/http": "^5.7 || ^6.0",
@@ -16,7 +17,6 @@
         "illuminate/support": "^5.7 || ^6.0"
     },
     "keywords":  ["Hcipl", "Contactform"],
-    "license": "MIT",
     "autoload": {
     	"psr-4": {
     		"Hcipl\\Contactform\\": "src/"
