@@ -4,12 +4,22 @@
     "authors": [
         {
             "name": "hcipl",
-            "email": "zinal.patel@horizoncore.com"
+            "email": "zinal.patel@horizoncore.com",
+            "role": "Developer"
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "php": ">=7.0",
+        "illuminate/database": "^5.7 || ^6.0",
+        "illuminate/http": "^5.7 || ^6.0",
+        "illuminate/notifications": "^5.7 || ^6.0",
+        "illuminate/support": "^5.7 || ^6.0"
+    },
+    "type": "project",
     "keywords":  ["Hcipl", "Contactform"],
+    "readme": "readme.md",
+    "license": "MIT",
     "autoload": {
     	"psr-4": {
     		"Hcipl\\Contactform\\": "src/"
